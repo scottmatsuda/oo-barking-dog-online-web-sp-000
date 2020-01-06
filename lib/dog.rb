@@ -1,1 +1,6 @@
-# Your code goes here!
+class Dog
+  
+  Dog.name=(dogs_name)
+    @
+    
+end
